@@ -1,5 +1,5 @@
 ## Patrik Wagner :wave:
-Hello, hello! I am a Junior Data Scientist with a background in Sales & Marketing. Looking to collaborate on data related projects.
+Hello, hello! I am a Data Scientist with a background in Sales & Marketing. Looking to collaborate on data related projects.
 
 ### Interested In:
 - 👀 Computer Vision
