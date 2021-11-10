@@ -1,10 +1,9 @@
 ## Patrik Wagner :wave:
-Hello, hello! I am a Data Scientist with a background in Sales & Marketing. Looking to collaborate on data related projects.
+I am a Tensorflow Certified Developer and Data Scientist with a background in Sales & Marketing. Looking to collaborate on data related projects.
 
 ### Interested In:
-- 👀 Computer Vision
-- :green_book: Natural Language Processing
-- :flying_saucer: Space Tech
+* Natural Language Processing
+* Computer Vision
 
 ### Currently Learning:
 [![TensorFlow](https://badges.aleen42.com/src/tensorflow.svg)](https://tensorflow.org/)
